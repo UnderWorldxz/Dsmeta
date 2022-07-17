@@ -11,8 +11,10 @@ function Header() {
                     Desenvolvido por
                     <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
                 </p>
-            </div>
+                
+            </div>       
         </header>
+
     )
 }
 
